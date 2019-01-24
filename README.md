@@ -1,1 +1,1 @@
-# Hack-Club-Database-Demo
+# Hack Club Database Demo
