@@ -30,3 +30,9 @@ INSERT INTO "Locations" (country, city, state)
 VALUES('USA', 'New York', 'New York'),
 		('Canada', 'Toronto', 'Ontario');
 		 
+		 
+INSERT INTO "Locations" (country, city, state)
+VALUES ('United States of America', 'Boston', 'Massachusetts'),
+		('USA', 'Kenosha', 'Wisconsin'),
+		('Australia', 'Melbourne', 'Victoria'),
+		('USA', 'Washington', 'D.C');
